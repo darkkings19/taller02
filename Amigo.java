@@ -26,8 +26,4 @@ public class Amigo {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
-    public void setTipoamistad(String tipoamistad) {
-        this.tipoamistad = tipoamistad;
-    }
 }
