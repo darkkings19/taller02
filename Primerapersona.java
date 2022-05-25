@@ -13,6 +13,7 @@ public class Primerapersona {
         this.amigos.add(new Amigo("Juan","No estimado", 22));
         this.amigos.add(new Amigo("Daniel","Estimada",28));
         this.amigos.add(new Amigo("Alberto","No estimada",25));
+        this.amigos.add(new Amigo("carlangas","Estimada",21));
     }
     public void eliminarAmigo(String nombre, int edad){
         for(Amigo amigo: this.amigos){
